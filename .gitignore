@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+
+infos.py
+
+__pycache__/
+
+bin/
+
+data/
+
+lib/
+
+.DS_Store
+
+airflow_ec2_key.pem
+
+pyvenv.cfg
